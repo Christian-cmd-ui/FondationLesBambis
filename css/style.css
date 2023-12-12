@@ -474,6 +474,6 @@
         transform: translateX(-1000px);
     }
     100% {
-        transform: translateX(-1500px);
+        transform: translateX(-1000px);
     }
 }
