@@ -443,13 +443,15 @@
     align-items: center;
     margin: auto 0;
 }
-.slides img {
-    display: block;
-    width: 100%;
-    height: auto;
-    margin-bottom: 10px; /* Espace entre les images dans le carousel */
+.slider .slide {
+    position: relative;
+    text-align: center;
 }
 
+.slider .slide img {
+    width: 100%;
+    height: auto;
+}
 .slider{
     width: 500px;
     overflow: hidden;

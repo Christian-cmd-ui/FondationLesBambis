@@ -104,9 +104,8 @@
             }
         }
     });
-
     $(document).ready(function(){
-        $('.slides').owlCarousel({
+        $('.slider').owlCarousel({
             loop: true,
             margin: 10,
             nav: true,
@@ -115,8 +114,7 @@
             autoplayTimeout: 5000,
             autoplayHoverPause: true
         });
-    });
-    
+    });    
     
 })(jQuery);
 
