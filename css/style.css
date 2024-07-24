@@ -443,11 +443,6 @@
     align-items: center;
     margin: auto 0;
 }
-.slider .slide {
-    position: relative;
-    text-align: center;
-}
-
 .slider .slide img {
     width: 100%;
     height: auto;
