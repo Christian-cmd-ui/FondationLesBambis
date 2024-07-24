@@ -480,3 +480,10 @@
 .my-text{
     font-size: 70px;
 }
+
+/* Owl Carousel */
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+}

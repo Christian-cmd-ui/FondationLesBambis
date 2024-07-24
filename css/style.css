@@ -443,9 +443,17 @@
     align-items: center;
     margin: auto 0;
 }
+.slides img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px; /* Espace entre les images dans le carousel */
+}
+
 .slider{
     width: 500px;
     overflow: hidden;
+    margin-bottom: 20px;
 }
 .slides{
     width: calc(500px * 3);
