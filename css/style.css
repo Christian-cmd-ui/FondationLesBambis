@@ -443,6 +443,12 @@
     align-items: center;
     margin: auto 0;
 }
+.slider .slide {
+    position: relative;
+    text-align: center;
+    margin-right: 50px; /* Décale les images vers la gauche */
+}
+
 .slider .slide img {
     width: 100%;
     height: auto;
